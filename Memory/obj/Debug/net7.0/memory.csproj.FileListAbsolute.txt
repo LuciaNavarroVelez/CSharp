@@ -1,0 +1,15 @@
+C:\Users\sahri\Desktop\DAM\VERANO\memory\bin\Debug\net7.0\memory.exe
+C:\Users\sahri\Desktop\DAM\VERANO\memory\bin\Debug\net7.0\memory.deps.json
+C:\Users\sahri\Desktop\DAM\VERANO\memory\bin\Debug\net7.0\memory.runtimeconfig.json
+C:\Users\sahri\Desktop\DAM\VERANO\memory\bin\Debug\net7.0\memory.dll
+C:\Users\sahri\Desktop\DAM\VERANO\memory\bin\Debug\net7.0\memory.pdb
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.csproj.AssemblyReference.cache
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.AssemblyInfoInputs.cache
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.AssemblyInfo.cs
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.csproj.CoreCompileInputs.cache
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.dll
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\refint\memory.dll
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.pdb
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\memory.genruntimeconfig.cache
+C:\Users\sahri\Desktop\DAM\VERANO\memory\obj\Debug\net7.0\ref\memory.dll
